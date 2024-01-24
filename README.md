@@ -1,6 +1,6 @@
 # Ethical Hacker Toolkit Repository
 
-Welcome to the Ethical Hacker Toolkit Repository – a curated collection of tools, scripts, and resources for ethical hackers, penetration testers, and cybersecurity enthusiasts. This repository is designed to assist in ethical hacking practices, security assessments, and the continuous improvement of cybersecurity skills.
+Personal the Ethical Hacker Toolkit Repository – a curated collection of tools, scripts, and resources for ethical hackers, penetration testers, and all related cybersecurity enthusiasts. This repository is designed to assist in ethical hacking practices, security assessments, and the continuous improvement of cybersecurity skills.
 
 ## Purpose
 
