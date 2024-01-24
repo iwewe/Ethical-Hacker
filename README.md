@@ -24,10 +24,11 @@ Blogs and Forums: Resources for staying updated on the latest trends and discuss
 Usage
 This repository is intended for ethical hackers, penetration testers, cybersecurity professionals, and anyone interested in enhancing their skills in a legal and responsible manner. It provides a starting point for security assessments, learning, and collaboration.
 
-Contributions
+##Contributions##
 Contributions to this repository are encouraged. If you have tools, scripts, or resources that align with ethical hacking principles and can benefit the community, feel free to submit a pull request.
 
-Disclaimer
+##Disclaimer##
+
 Use these tools responsibly and legally. Unauthorized access to computer systems, networks, or data is strictly prohibited. The maintainers and contributors of this repository are not responsible for any misuse of the tools provided.
 
 License
